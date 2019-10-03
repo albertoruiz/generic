@@ -1,0 +1,19 @@
+name: generic
+
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - sympy
+  - pandas
+  - mpmath
+  - uncertainties
+  - pint
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - ffmpeg
+  - scikit-learn
+  - xlrd
+  - pymc3
+
