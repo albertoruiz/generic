@@ -1,4 +1,5 @@
 pip install arviz
+pip install numdifftools
 
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
