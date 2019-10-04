@@ -16,4 +16,5 @@ dependencies:
   - scikit-learn
   - xlrd
   - pymc3
+  - mkl-service
 
