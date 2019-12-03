@@ -8,3 +8,4 @@ texlive-fonts-recommended
 texlive-xetex
 dvipng
 ghostscript
+libgtk2.0-0

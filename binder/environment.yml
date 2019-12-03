@@ -1,5 +1,8 @@
 name: generic
 
+channels:
+  - menpo
+
 dependencies:
   - python
   - numpy
@@ -14,7 +17,9 @@ dependencies:
   - jupyter_contrib_nbextensions
   - ffmpeg
   - scikit-learn
+  - scikit-image
   - xlrd
   - pymc3
   - mkl-service
+  - opencv3
 
