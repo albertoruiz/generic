@@ -2,7 +2,6 @@ pip install arviz
 pip install numdifftools
 pip install tensorflow
 pip install keras
-echo "export PYTHONPATH=/home/$USER/umucv-master/code/modules" >> /home/$USER/.bashrc
 
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
